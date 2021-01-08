@@ -1,0 +1,6 @@
+name: u1circuitsdata
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
