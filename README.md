@@ -9,6 +9,6 @@ Clone repository and run notebooks in your own Jupyter instance or click binder 
   * `Two-level system.ipynb`: section 4.3 of thesis. Data analysis for two-level system.
   * `Three-site chain.ipynb`: section 4.4 of thesis. Data analysis for dynamic U(1).
 
-Notice that the computationally more intensive simulations are best performed at home, because it takes unfathomably long on the public BinderHub infrastructure.
+Notice that the computationally more intensive simulations are best performed at home, because it takes unfathomably long on the public BinderHub infrastructure.  The 'Numerical simulations'-notebook does not depend on the rest of the repository and can be just downloaded as file.
 
 The included data is generated from scripts in https://github.com/tychon/redpitaya-measurements with setups described in the thesis.
