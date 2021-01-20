@@ -1,7 +1,7 @@
 # U1CircuitsData
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tychon/U1CircuitsData.git/HEAD)
 
-Code for data analysis and simulations accompanying this Master thesis *TODO insert link*
+Code for data analysis and simulations accompanying the Master thesis ([download PDF](https://www.kip.uni-heidelberg.de/Veroeffentlichungen/details.php?id=4137)).
 
 Clone repository and run notebooks in your own Jupyter instance or click binder button above to run on other people's computers (aka 'the cloud').
 
